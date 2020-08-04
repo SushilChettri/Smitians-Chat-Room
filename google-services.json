@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765357255365",
+    "firebase_url": "https://smitianschatroom.firebaseio.com",
+    "project_id": "smitianschatroom",
+    "storage_bucket": "smitianschatroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765357255365:android:627e91c8cd0a2f55f69eac",
+        "android_client_info": {
+          "package_name": "com.sushil.smitianschatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765357255365-0874jhha5v3htgsmn4ag3sne9cchh4m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjT4bUzrsjm7tVCh1yAGIIWpUxdNA7hFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765357255365-0874jhha5v3htgsmn4ag3sne9cchh4m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
